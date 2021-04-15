@@ -2404,9 +2404,3 @@ indexa todos os relatórios de projetos públicos alemães e muitos artigos cien
 # *Concorente*
 
 * [osint-tool](https://www.osinttechniques.com/osint-tools.html)
-
-
-
-
-
-Create: Who4are
